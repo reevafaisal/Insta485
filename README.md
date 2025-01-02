@@ -4,10 +4,11 @@
 - Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
 
 ## Features Included:
-<p>
-  <img src="assets/demo-infinitescroll-ezgif.com-video-to-gif-converter (1).gif" width="320px">
-  <img src="assets/demo-insta485-heart-ezgif.com-video-to-gif-converter (1).gif" width="320px">
-</p>  
+
+  <p>
+    <img src="assets/demo-infinitescroll-ezgif.com-video-to-gif-converter (1).gif" width="320px">
+    <img src="assets/demo-insta485-heart-ezgif.com-video-to-gif-converter (1).gif" width="320px">
+  </p>  
 
 - Feed of posts
 - Human Readable Timestamps
