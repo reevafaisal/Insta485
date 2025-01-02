@@ -19,7 +19,7 @@
 ## Usage Instructions
 
   <p>
-    <iframe src="https://hazel.org/build/dev/" width="100%" height="200" frameborder="0" scrolling="yes"></iframe>  
+    <iframe src="http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/" width="100%" height="200" frameborder="0" scrolling="yes"></iframe>  
   </p>  
 
 - The following credentials can be used to test the system, username: awdeorio, password: chickens.
