@@ -3,6 +3,10 @@
 - Developed an Instagram clone as part of a three-project sequence for EECS 485, focusing on building client-side dynamic pages using JavaScript, React, and AJAX.
 - Refactored the server-side logic from Flask into a REST API to handle asynchronous data requests, enabling real-time updates for user interactions such as likes, comments, and infinite scrolling without page reloads.
 
+
+---
+
+
 ## Features Included:
 
   <p>
@@ -17,6 +21,10 @@
 - Liking an image by double clicking it
 - Infinite scrolling
 
+
+---
+
+
 ## Usage Instructions
 
 ### [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/)
@@ -24,5 +32,8 @@
 - Use the link above to access the application
 - The following credentials can be used to test the system, username: awdeorio, password: chickens.
 - To login as any of the other users within the app, the password for login is "password".
+
+
+---
 
 Technologies: Python, SQL, HTML, CSS, JavaScript, React, Flask, AWS  
