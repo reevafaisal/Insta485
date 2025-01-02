@@ -19,7 +19,7 @@
 
 ## Usage Instructions
 
-[Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/)
+### [Demo](http://ec2-18-219-187-14.us-east-2.compute.amazonaws.com/)
 
 - Use the link above to access the application
 - The following credentials can be used to test the system, username: awdeorio, password: chickens.
