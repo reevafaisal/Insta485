@@ -5,8 +5,8 @@
 
 ## Features Included:
 <p>
-  <img src="assests/demo-infinitescroll-ezgif.com-video-to-gif-converter (1).gif" width="320px">
-  <img src="demo-insta485-heart-ezgif.com-video-to-gif-converter.gif" width="320px">
+  <img src="assets/demo-infinitescroll-ezgif.com-video-to-gif-converter (1).gif" width="320px">
+  <img src="assets/demo-insta485-heart-ezgif.com-video-to-gif-converter (1).gif" width="320px">
 </p>  
 
 - Feed of posts
