@@ -5,7 +5,7 @@
 
 ## Features Included:
 <p>
-  <img src="demo-infinitescroll-ezgif.com-video-to-gif-converter.gif" width="320px">
+  <img src="assests/demo-infinitescroll-ezgif.com-video-to-gif-converter (1).gif" width="320px">
   <img src="demo-insta485-heart-ezgif.com-video-to-gif-converter.gif" width="320px">
 </p>  
 
